@@ -36,5 +36,5 @@ More info about dataset can be found here:
 
 
 ## DashBoard
-![GCP Uber Image](https://github.com/Simon1197/Uber_GCP_Project/blob/main/mage-files/gcp_uber.png)
+![GCP Uber Image]([https://github.com/Simon1197/Uber_GCP_Project/blob/main/mage-files/gcp_uber.png](https://github.com/Simon1197/Uber_GCP_Project/blob/main/mage-files/gcp_uber.png)https://github.com/Simon1197/Uber_GCP_Project/blob/main/mage-files/gcp_uber.png)
 

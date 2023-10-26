@@ -36,5 +36,4 @@ More info about dataset can be found here:
 
 
 ## DashBoard
-<img src="gcp_uber.png">
-![alt text](gcp_uber.png)
+![My Image](gcp_uber.png)
